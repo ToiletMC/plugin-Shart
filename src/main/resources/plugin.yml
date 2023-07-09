@@ -1,0 +1,7 @@
+name: Shart
+version: '${version}'
+main: net.toiletmc.shart.Shart
+api-version: '1.19'
+commands:
+  shart:
+    aliases: [ shit, poop, poo ]
